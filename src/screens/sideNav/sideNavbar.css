@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+  border: 1px solid red;
+  padding: 20px 15px;
+  background-color: #080808;
+}
+.header-title {
+  color: #1909a0;
+}
